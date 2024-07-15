@@ -1,0 +1,93 @@
+footer{
+    background-color: black;
+    color: white;
+    padding-top: 2%;
+}
+.logos{
+    border-top: 2px solid grey;
+    margin-right: 10%;
+    margin-left: 10%;
+    display: flex;
+    justify-content: space-between;
+}
+.logos__valve{
+    margin-top: 3%;
+}
+.logos__steam{
+    margin-top: 3%;
+    width: 100px;
+    height: 40px;
+}
+.footer__textBlack{
+    margin-top: 2%;
+    margin-right: 10%;
+    margin-left: 10%;
+}
+.footer__textBlock__text{
+    font-size: 14px;
+    color: lightgrey;
+}
+.footer__textBlock__Links{
+    font-size: 14px;
+    display: flex;
+    justify-content: space-between;
+    border-top: 2px solid grey;
+}
+.footer__textBlock__Links__link1{
+    margin-bottom: 5%;
+    margin-top: 2%;
+    padding-right: 2%;
+    border-right: 2px solid grey;
+}
+.footer__textBlock__Links__link2{
+    margin-top: 2%;
+    margin-bottom: 5%;
+    padding-right: 3%;
+    padding-left: 2%;
+    border-right: 2px solid grey;
+}
+.footer__textBlock__Links__link3{
+    margin-top: 2%;
+    margin-bottom: 5%;
+    padding-right: 3%;
+    padding-left: 3%;
+    border-right: 2px solid grey;
+}
+.footer__textBlock__Links__link4{
+    margin-top: 2%;
+    margin-bottom: 5%;
+    padding-right: 3%;
+    padding-left: 3%;
+    border-right: 2px solid grey;
+}
+.footer__textBlock__Links__link5{
+    margin-top: 2%;
+    margin-bottom: 5%;
+    padding-right: 3%;
+    padding-left: 3%;
+    border-right: 2px solid grey;
+}
+.footer__textBlock__Links__link6{
+    margin-top: 2%;
+    margin-bottom: 5%;
+    padding-right: 3%;
+    padding-left: 3%;
+    border-right: 2px solid grey;
+}
+.footer__textBlock__Links__link7{
+    margin-top: 2%;
+    margin-bottom: 5%;
+    padding-left: 2%;
+    padding-right: 2%;
+    border-right: 2px solid grey;
+}
+.footer__textBlock__Links__link7{
+    margin-top: 2%;
+    margin-bottom: 5%;
+    padding-left: 2%;
+    padding-right: 2%;
+}
+.footer__textBlock__Links__link8{
+    margin-top: 2%;
+    margin-bottom: 5%;
+}

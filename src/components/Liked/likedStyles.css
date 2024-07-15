@@ -1,0 +1,47 @@
+.likePlayersLikeYou{
+    display: flex;
+    background-color: #8d249b45;
+    width: 90%;
+}
+.likePlayersLikeYou__block1{
+    background-color: #8d249b45;
+    color: white;
+    font-size: 28px;
+    font-weight: 900;
+    padding: 6% 4% 6% 4%;
+    width: 20%;
+}
+.likePlayersLikeYou__block2{
+    display: inline-grid;
+    flex-wrap: nowrap;
+    padding: 2%;
+}
+.likePlayersLikeYou__block2__block1{
+    display: flex;
+    justify-content: space-between;
+    height: 70%;
+    width: 30%;
+}
+.likePlayersLikeYou__block2__block2{
+    display: flex;
+    justify-content: space-between;
+    height: 70%;
+    width: 30%;
+}
+.imgInLike{
+    width: 260px;
+    height: 150px;
+}
+img{
+    pointer-events: none;
+}
+.likePlayersLikeYou__block2__block1__cart{
+    height: 170px;
+    display: inline-grid;
+    flex-wrap: nowrap;
+    background-color: black;
+    color: white;
+    font-size: 14px;
+    font-weight: 600;
+    margin-right: 2%;
+}

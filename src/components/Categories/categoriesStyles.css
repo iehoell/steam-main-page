@@ -1,0 +1,22 @@
+.categories__title{
+    margin-top: 2%;
+    justify-content: center;
+    display: flex;
+    color: white;
+}
+.categories__title__text{
+    background-color: #4ECC8F;
+    font-size: 14px;
+    font-weight: 600;
+    color: black;
+    border-radius: 10px;
+    padding: 20px;
+    margin-left: 2%;
+}
+.SliderCategories{
+    width: 90%;
+    margin-bottom: 5%;
+}
+.plateImage1{
+    margin-right: 10px;
+}

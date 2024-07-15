@@ -1,0 +1,61 @@
+header{
+    position: relative;
+    margin: 0 10% 0 10%;
+    background-color: #54a5d4;
+    color: white;
+    font-size: 16px;
+    font-weight: 600;
+    display: flex;
+    justify-content: space-between;
+}
+.header__blockShop{
+    padding: 5px;
+}
+.header__blockNewAndInteresting{
+    padding: 5px;
+}
+.header__blockCategories{
+    padding: 5px;
+}
+.header__blockItemsForPoints{
+    padding: 5px;
+}
+.header__blockNews{
+    padding: 5px;
+}
+.header__blockLabs{
+    padding: 5px;
+}
+.header__blockSearch{
+    padding: 5px;
+}
+.header__blockShop:hover{
+    cursor: pointer;
+    background-color: steelblue;
+}
+.header__blockNewAndInteresting:hover{
+    cursor: pointer;
+    background-color: steelblue;
+}
+.header__blockCategories:hover{
+    cursor: pointer;
+    background-color: steelblue;
+}
+.header__blockItemsForPoints:hover{
+    cursor: pointer;
+    background-color: steelblue;
+}
+.header__blockNews:hover{
+    cursor: pointer;
+    background-color: steelblue;
+}
+.header__blockLabs:hover{
+    cursor: pointer;
+    background-color: steelblue;
+}
+#search{
+    background-color: steelblue;
+    outline: none;
+    border-radius: 5px;
+    color: white;
+}
